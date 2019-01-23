@@ -1,0 +1,8 @@
+---------------
+INSTRUCTIONS
+---------------
+
+Metasploit Framework v.5 in Debian9 LXC Container
+
+When yo to be in / of system, execute "./msfconsole.sh" for start Metasploit console.
+
